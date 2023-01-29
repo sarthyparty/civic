@@ -76,6 +76,26 @@ ul li a:hover {
 
 }
 
+.abhay{
+
+    display: flex;
+    justify-content: center;
+
+}
+
+.kanishk{
+
+    display: inline;
+
+}
+
+.new{
+
+    padding-left: 350px;
+    padding-top: 20px;
+
+}
+
 b {
     display: inline-block;
     height: 300px; /*sets height of element*/
