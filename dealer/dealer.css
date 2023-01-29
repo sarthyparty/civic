@@ -21,20 +21,9 @@ ul li a:hover {
     color: #fe3501;
 }
 
-#map {
-    width: 100vw;
-    height: 100vh;
-
-    display: none;
-    position: absolute;
-    background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-}
-
 .main {
     width: 100%;
-    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(background.jpeg);
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(../images/background.jpeg);
     background-position: center;
     background-size: cover;
     height: 100vh;
@@ -58,4 +47,20 @@ ul li a:hover {
 .nav-links li {
     margin: 0 30px;
 
+}
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    font-family: 'Roboto', sans-serif;
+    color: white;
+
+    height: 100 vw;
+
+    padding-left: 2.50%;
+    padding-right: 2.50%;
+
+    padding-top: 5%;
 }
