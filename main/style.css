@@ -48,3 +48,9 @@ ul li a:hover {
     margin: 0 30px;
 
 }
+
+.logo{
+    color: #fe3501;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+}
