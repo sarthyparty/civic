@@ -99,15 +99,15 @@ ul li a:hover {
 
 b {
     display: inline-block;
-    height: 300px; /*sets height of element*/
-    width: 250px;
-    background: rgba(100, 100, 100, 0.6);; /*sets the background of this element (here a solid colour)*/
-    transition: all 0.6s; /*sets a transition (for hover effect)*/
-    padding-left: 20px; /*sets 'padding'*/
-    padding-right: 20px; /*sets 'padding'*/
-    line-height: 30px; /*for this, it sets vertical alignment*/
-    border-radius: 40px;
+  height: 300px; /*sets height of element*/
+  width: 250px;
+  background: rgba(255, 255, 255, 0.6);; /*sets the background of this element (here a solid colour)*/
+  transition: all 0.6s; /*sets a transition (for hover effect)*/
+  padding-left: 20px; /*sets 'padding'*/
+  padding-right: 20px; /*sets 'padding'*/
+  line-height: 30px; /*for this, it sets vertical alignment*/
+  border-radius: 20px;
   }
   b:hover {
-    background: tomato; /*sets background colour*/
+    background: #fe3501; /*sets background colour*/
   }
