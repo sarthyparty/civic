@@ -67,3 +67,24 @@ ul li a:hover {
     text-decoration: none;
 }
 
+.swag{
+
+    padding-left: 50px; /*sets 'padding'*/
+    padding-right: 50px; /*sets 'padding'*/
+    line-height: 70px; /*for this, it sets vertical alignment*/
+
+}
+
+b {
+    display: inline-block;
+    height: 300px; /*sets height of element*/
+    width: 250px;
+    background: rgba(100, 100, 100, 0.6);; /*sets the background of this element (here a solid colour)*/
+    transition: all 0.6s; /*sets a transition (for hover effect)*/
+    padding-left: 20px; /*sets 'padding'*/
+    padding-right: 20px; /*sets 'padding'*/
+    line-height: 30px; /*for this, it sets vertical alignment*/
+  }
+  b:hover {
+    background: tomato; /*sets background colour*/
+  }
