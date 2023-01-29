@@ -64,3 +64,9 @@ ul li a:hover {
 
     padding-top: 5%;
 }
+
+.logo{
+    color: #fe3501;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+}
