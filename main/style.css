@@ -56,10 +56,16 @@ ul li a:hover {
 }
 
 .container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    font-family: 'Roboto', sans-serif;
 
     color: white;
 
     padding-top: 20%;
-    padding-left: 5%;
+
 
 }
