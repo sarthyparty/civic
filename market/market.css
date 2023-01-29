@@ -58,7 +58,8 @@ ul li a:hover {
     text-align: center;
     display: inline-block;
     font-size: 16px;
-    padding-top: 5%
+    padding-top: 5%;
+    visibility: hidden;
   }
 
   .logo{
@@ -73,6 +74,26 @@ ul li a:hover {
     padding-right: 50px; /*sets 'padding'*/
     line-height: 70px; /*for this, it sets vertical alignment*/
     border-radius: 40px;
+
+}
+
+.abhay{
+
+    display: flex;
+    justify-content: center;
+
+}
+
+.kanishk{
+
+    display: inline;
+
+}
+
+.new{
+
+    padding-left: 350px;
+    padding-top: 20px;
 
 }
 
