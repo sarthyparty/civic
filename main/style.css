@@ -54,3 +54,12 @@ ul li a:hover {
     font-family: 'Roboto', sans-serif;
     text-decoration: none;
 }
+
+.container{
+
+    color: white;
+
+    padding-top: 20%;
+    padding-left: 5%;
+
+}
